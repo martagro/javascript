@@ -1,4 +1,4 @@
-'use script';
+'use strict';
 
 /* Deklaracja zmiennej przechowującej tablice */
 
